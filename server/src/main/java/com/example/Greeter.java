@@ -14,7 +14,7 @@ public class Greeter {
 
   /**
    * This is comment.
-   * @param this is param.
+   * @param someone is param.
    * @return formatted string.
    */
   public final String greet(final String someone) {
